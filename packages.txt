@@ -1,0 +1,28 @@
+For Learning platform using react we want packages to install:
+
+1.react-router-dom : it is for adding routing for our project.
+2.react-youtube : it is used for adding youtube videos for our project.
+3.uniqid  : using this we will generate hexadecimal id for our courses.
+4.quill : using this package we can generate rich text for our project course description.
+5.humanize-duration : this package help us to convert the video duration in hrs,minutes and sec.
+6.rc-progress : it is help us to design a progress bar or circular progress.
+7.react-simple-star-rating : help us to display star rating for our courses.
+8. express : Express is a backend web framework for Node.js used to build APIs and servers.
+9. nodemon :  Nodemon automatically restarts the server when code changes.
+             Without nodemon-Every time you change code you must run "node server.js".
+10. dotenv : Dotenv loads environment variables from .env file
+11. cors : CORS allows frontend and backend to communicate from different origins.
+12. cloudinary : Cloudinary is used to upload and store images/videos in the cloud.
+13. mongoose : Mongoose is a MongoDB object modeling tool.
+14. multer : Multer handles file uploads in Express.
+15. stripe : Stripe is used for online payments.
+16. svix : Svix is used for handling webhooks.In your case it is mainly used with Clerk authentication.
+17. @clerk/express : Clerk provides authentication (login/signup).Features:user login,signup,Google login,session management,JWT tokens
+
+what is vite + tailwind - it is a framework that is integrated with React used to style the components rather than writing the custom CSS.
+
+what is AppContextProvider - it is a component that makes data globally available to all other components nested within it.
+
+for Authentication purpose we use "go-clerk.com" - it is a comprehensive user management and authentication platform designed for modern web and mobile apps.
+
+
